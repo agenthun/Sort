@@ -1,5 +1,5 @@
 # Sort
-Sort with Java
+	Sort with Java
 # List
-SelectionSort
-InsertSort
+	SelectionSort
+	InsertSort
