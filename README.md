@@ -3,3 +3,5 @@
 # List
 	SelectionSort
 	InsertSort
+	BubbleSort
+	MergeSort
