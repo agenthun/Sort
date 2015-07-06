@@ -23,7 +23,7 @@ public class BubbleSort {
             System.out.print(list[i] + " ");
         }
         BubbleSort(list);
-        System.out.println("\r\nSelectionSort");
+        System.out.println("\r\nBubbleSort");
         System.out.println("new array");
         for (int i = 0; i < list.length; i++) {
             System.out.print(list[i] + " ");
