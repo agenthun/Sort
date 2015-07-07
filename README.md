@@ -5,3 +5,4 @@
 	InsertSort
 	BubbleSort
 	MergeSort
+	QuickSort
