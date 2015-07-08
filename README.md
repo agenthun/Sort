@@ -6,3 +6,4 @@
 	BubbleSort
 	MergeSort
 	QuickSort
+	ShellSort
