@@ -7,3 +7,4 @@
 	MergeSort
 	QuickSort
 	ShellSort
+	MinHeapSort
