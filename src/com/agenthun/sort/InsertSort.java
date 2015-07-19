@@ -1,3 +1,5 @@
+package com.agenthun.sort;
+
 /**
  * Created by Agent Henry on 2015/7/4.
  */
@@ -24,7 +26,7 @@ public class InsertSort {
             System.out.print(list[i] + " ");
         }
         InsertSort(list);
-        System.out.println("\r\nInsertSort");
+        System.out.println("\r\ncom.agenthun.sort.InsertSort");
         System.out.println("new array");
         for (int i = 0; i < list.length; i++) {
             System.out.print(list[i] + " ");

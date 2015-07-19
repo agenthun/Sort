@@ -1,3 +1,5 @@
+package com.agenthun.sort;
+
 /**
  * Created by Agent Henry on 2015/7/8.
  */
@@ -30,7 +32,7 @@ public class ShellSort {
             System.out.print(list[i] + " ");
         }
         ShellSort(list);
-        System.out.println("\r\nShellSort");
+        System.out.println("\r\ncom.agenthun.sort.ShellSort");
         System.out.println("new array");
         for (int i = 0; i < list.length; i++) {
             System.out.print(list[i] + " ");

@@ -1,3 +1,5 @@
+package com.agenthun.sort;
+
 /**
  * Created by Agent Henry on 2015/7/6.
  */
@@ -49,7 +51,7 @@ public class MergeSort {
             System.out.print(list[i] + " ");
         }
         MergeSort(list, 0, list.length - 1);
-        System.out.println("\r\nMergeSort");
+        System.out.println("\r\ncom.agenthun.sort.MergeSort");
         System.out.println("new array");
         for (int i = 0; i < list.length; i++) {
             System.out.print(list[i] + " ");
