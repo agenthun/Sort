@@ -1,10 +1,10 @@
 # Sort
 	Sort with Java
 # List
-	SelectionSort я║тЯеепР
-	InsertSort ╡ЕхКеепР
-	BubbleSort ц╟ещеепР
-	MergeSort ╧И╡╒еепР
-	QuickSort ©ЛкыеепР
-	ShellSort оё╤ШеепР
-	MinHeapSort ╤яеепР
+	SelectionSort И─┴Ф▀╘Ф▌▓Е╨▐
+	InsertSort Ф▐▓Е┘╔Ф▌▓Е╨▐
+	BubbleSort Е├▓ФЁ║Ф▌▓Е╨▐
+	MergeSort Е╫▓Е╧╤Ф▌▓Е╨▐
+	QuickSort Е©╚И─÷Ф▌▓Е╨▐
+	ShellSort Е╦▄Е╟■Ф▌▓Е╨▐
+	MinHeapSort Е═├Ф▌▓Е╨▐
