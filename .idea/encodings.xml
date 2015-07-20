@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/agenthun/sort/BubbleSort.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/agenthun/sort/InsertSort.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/agenthun/sort/MergeSort.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/agenthun/sort/MinHeapSort.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/agenthun/sort/QuickSort.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/agenthun/sort/SelectionSort.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/agenthun/sort/ShellSort.java" charset="UTF-8" />
+  </component>
+</project>
