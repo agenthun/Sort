@@ -1,5 +1,5 @@
 # Sort
-	Sort with Java
+	Exercise Sort with Java
 # List
 	SelectionSort 选择排序
 	InsertSort 插入排序
